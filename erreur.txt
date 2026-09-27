@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/aaron/Documents/HACKATHONS /IBM Bob 2.0/bug_test.py", line 4, in <module>
+    print(diviser(10, 0))
+          ~~~~~~~^^^^^^^
+  File "/Users/aaron/Documents/HACKATHONS /IBM Bob 2.0/bug_test.py", line 2, in diviser
+    return a / b
+           ~~^~~
+ZeroDivisionError: division by zero
